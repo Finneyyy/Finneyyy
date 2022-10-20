@@ -1,5 +1,5 @@
 ### Hi there, I'm Eoin! 👋
-I am an avid CTF player, and am heavily interested in Cyber Security (I even have a degree in it!).
+I am an avid CTF player (I usually go by **Spectr3** or **Eoin**), and am heavily interested in Cyber Security (I even have a degree in it!).
 
 Due to my involvement with CTF's, I read multiple languages (e.g: python, C, C++, x86 assembly), but I mainly write scripts and such with python.
 
