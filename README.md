@@ -3,7 +3,7 @@ I am an avid CTF player, and am heavily interested in Cyber Security (I even hav
 
 Due to my involvement with CTF's, I read multiple languages (e.g: python, C, C++, x86 assembly), but I mainly write scripts and such with python.
 
-If you want to get in contact with me, you can put a bit of effort in and contact me via my Linkedin, or read through previous projects of mine to find email addresses and the like.
+If you want to get in contact with me, you can put a bit of effort in and contact me via my Linkedin, or read through previous projects of mine to find email addresses and the like -  *or if you are lazy, email me at hobbyhorse_possessor@pm.me*
 
 <!--
 **Finneyyy/Finneyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
