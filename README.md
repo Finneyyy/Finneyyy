@@ -1,4 +1,4 @@
-### [Hello There](https://images-ext-2.discordapp.net/external/LXf781PkMnNhOMvDwWtphyRW8j_gdgAaBwrI0uzjBnk/https/media.tenor.com/6us3et_6HDoAAAPo/hello-there-hi-there.mp4)
+### Hello There
 I am an avid CTF player (I usually go by **Spectr3** or **Eoin**), and am heavily interested in Cyber Security (I even have a degree in it!).
 
 Due to my involvement with CTF's, I can read *and understand* multiple languages (e.g: python, C, C++, java), but I mainly write scripts and such with python:snake:.
