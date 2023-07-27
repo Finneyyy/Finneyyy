@@ -1,7 +1,7 @@
 ### Hello There
 I am an avid CTF player (I usually go by **Spectr3** or **Eoin**), and am heavily interested in Cyber Security (I even have a degree in it!).
 
-Due to my involvement with CTF's, I can read *and understand* multiple languages (e.g: python, C, C++, java, rust, etc. etc.), but I mainly write scripts and such with python:snake:.
+Due to my involvement with CTF's, I can *sometimes understand* multiple languages (e.g: python, C, C++, java, rust, etc. etc.), but I mainly write scripts and such with python:snake:.
 
 If you want to get in contact with me, you can put a bit of effort in and contact me via my [Linkedin](https://linkedin.com/in/e0in), or read through previous repos of mine to find email addresses and the like
 
