@@ -1,7 +1,11 @@
 ### Hello There
-I am an avid CTF player (I usually go by **Spectr3** or **Eoin**), and am heavily interested in Cyber Security (I even have a degree in it!).
+I'm Eoin. I work as a Technical Support Engineer in IBM. I work hands-on with QRadar, RHEL, OpenShift, IBM Concert & IBM Verify. I have a BSc in Digital Forensics and Cyber Security.
 
-Due to my involvement with CTF's, I get the gist of multiple languages (e.g: python, C, C++, java, rust, etc. etc.), but I mainly write scripts and such with python :snake:.
+I've participated in a lot of CTF competitions in the past, and wa apart of the Irish ECSC teams of 2022 & 2023.
+I have particular interest in Forensics.
+
+I write projects and scripts, mainly in python, but will read and write in other languages as well.
+
 
 If you want to get in contact with me, you can put a bit of effort in and contact me via my [Linkedin](https://linkedin.com/in/e0in)
 
